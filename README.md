@@ -1,9 +1,9 @@
-# IntegracaoEntreAPIsComMessageria
+# IntegracaoEntreAPIsComActiveMQ
 
 ## Descrição
 
 Projeto de integração entre sistemas desenvolvido para resolver problemas de indisponibilidade de API REST.
-As tecnologias empregas foram Java, SpringBoot, SpringDataJPA, ActiveMQ e Postgres.
+As tecnologias empregas foram Java, SpringBoot, SpringDataJPA, JMS, ActiveMQ e Postgres.
 
 ## Contribuidor
 
