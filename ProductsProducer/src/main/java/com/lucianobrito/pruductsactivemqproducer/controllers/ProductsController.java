@@ -1,4 +1,4 @@
-package com.lucianobrito.pruductsproducer.controllers;
+package com.lucianobrito.pruductsactivemqproducer.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.lucianobrito.pruductsproducer.entities.Product;
-import com.lucianobrito.pruductsproducer.service.ProductsService;
+import com.lucianobrito.pruductsactivemqproducer.entities.Product;
+import com.lucianobrito.pruductsactivemqproducer.service.ProductsService;
 
 @RestController
 @RequestMapping("/products")

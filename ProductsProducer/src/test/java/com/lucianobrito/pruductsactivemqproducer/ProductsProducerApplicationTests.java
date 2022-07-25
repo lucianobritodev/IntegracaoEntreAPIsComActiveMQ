@@ -1,4 +1,4 @@
-package com.lucianobrito.pruductsproducer;
+package com.lucianobrito.pruductsactivemqproducer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

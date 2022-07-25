@@ -1,4 +1,4 @@
-package com.lucianobrito.pruductsconsumer.entities;
+package com.lucianobrito.pruductsactivemqconsumer.entities;
 
 import java.util.UUID;
 

@@ -1,4 +1,4 @@
-package com.lucianobrito.pruductsconsumer.services;
+package com.lucianobrito.pruductsactivemqconsumer.services;
 
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Service;

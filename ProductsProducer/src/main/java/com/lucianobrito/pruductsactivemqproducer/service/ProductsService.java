@@ -1,4 +1,4 @@
-package com.lucianobrito.pruductsproducer.service;
+package com.lucianobrito.pruductsactivemqproducer.service;
 
 import org.springframework.jms.JmsException;
 import org.springframework.jms.core.JmsTemplate;
@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.lucianobrito.pruductsproducer.entities.Product;
+import com.lucianobrito.pruductsactivemqproducer.entities.Product;
 
 import lombok.AllArgsConstructor;
 

@@ -1,4 +1,4 @@
-package com.lucianobrito.pruductsproducer;
+package com.lucianobrito.pruductsactivemqproducer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
